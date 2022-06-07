@@ -1,0 +1,22 @@
+{
+  "name": "json-separator",
+  "version": "0.1.0",
+  "description": "RPGツクール用のデータベースのjsonを分割結合するやつ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nozomi-hiragi/json-separator.git"
+  },
+  "author": "nozomi hiragi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nozomi-hiragi/json-separator/issues"
+  },
+  "homepage": "https://github.com/nozomi-hiragi/json-separator#readme",
+  "devDependencies": {
+    "nexe": "^4.0.0-rc.1"
+  }
+}
